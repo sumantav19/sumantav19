@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sumant Dey
-- 👀 I’m interested in functional programming
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to brain storm on interesting business ideas
+- 👀 I’m a functional programmer
+- 🌱 Know clojure, I’m expanding my depth in Kotlin fp  
+- 💞️ I’m looking for playing with interesting ideas (tech/startup)
 - 📫 How to reach me at https://www.linkedin.com/in/sumant-dey-app-dev/
 
 <!---
